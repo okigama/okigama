@@ -1,10 +1,4 @@
-- Olá, meu nome é Otávio.
-- Tenho interesse em seguir carreira na área de Machine Learning (ML).
-- Estou focado em aprender sobre modelos de aprendizado de máquina, redes neurais e inteligência artificial.
-- Meu e-mail para contato é otaviohormes@gmail.com.
+<h1>OLá! Me chamo Otávio!!</h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okigama)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-okigama/okigama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
