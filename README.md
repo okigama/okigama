@@ -1,7 +1,7 @@
-- Olá, meu nome é Otávio
-- Tenho interesse na aréa da tecnologia, em especifico, na aréa da computação
-- No momento, estou aprendendo progamação, especificamente o curso CCS50 de Ciências Da Computação de Havard
-- Meu email para contato: otaviohormes@gmail.com
+- Olá, meu nome é Otávio.
+- Tenho interesse em seguir carreira na área de Machine Learning (ML).
+- Estou focado em aprender sobre modelos de aprendizado de máquina, redes neurais e inteligência artificial.
+- Meu e-mail para contato é otaviohormes@gmail.com.
 
 
 <!---
